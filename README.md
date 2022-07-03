@@ -16,7 +16,7 @@ The .as file is the input file. It contains MIPS assembly code that will be asse
 </p>
 
 ## .mc file
-The .mc file is the output file. It contains the machine code that is generated from the MIPS assembly code.
+The .mc file is the output file. It contains the machine code that is generated from the MIPS assembly code line by line.
 
 <p align="center">
     <img src=".\screenshot\3 output file.PNG" width="250" >
